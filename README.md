@@ -63,4 +63,3 @@ Estou evoluindo minhas habilidades e construindo projetos para, no futuro, me to
 <br/>
 <br/>
 
-![snake gif](https://github.com/Lehbelmonte/Lehbelmonte/blob/output/github-contribution-grid-snake.svg)
